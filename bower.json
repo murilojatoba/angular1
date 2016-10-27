@@ -1,0 +1,20 @@
+{
+    "name": "angular1",
+    "version": "0.0.1",
+    "homepage": "https://github.com/murilojatoba/angular1",
+    "authors": [
+        "murilojatoba <murilojatoba@gmail.com>"
+    ],
+    "description": "Primeiro projeto em AngularJS",
+    "main": "index.html",
+    "keywords": [
+        "AngularJS"
+    ],
+    "license": [],
+    "dependencies": {
+        "angular": "~1.5.9",
+        "angular-cookies": "~1.5.9",
+        "angular-resource": "~1.5.9",
+        "angular-route": "~1.5.9"
+    }
+}
