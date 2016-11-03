@@ -12,9 +12,9 @@
     ],
     "license": [],
     "dependencies": {
-        "angular": "~1.5.9",
-        "angular-cookies": "~1.5.9",
-        "angular-resource": "~1.5.9",
-        "angular-route": "~1.5.9"
+        "angular": "~1.5.8",
+        "angular-cookies": "~1.5.8",
+        "angular-resource": "~1.5.8",
+        "angular-route": "~1.5.8"
     }
 }
