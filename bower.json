@@ -1,21 +1,21 @@
 {
-    "name": "angular1",
-    "version": "0.0.1",
-    "homepage": "https://github.com/murilojatoba/angular1",
-    "authors": [
-        "murilojatoba <murilojatoba@gmail.com>"
-    ],
-    "description": "Primeiro projeto em AngularJS",
-    "main": "index.html",
-    "keywords": [
-        "AngularJS"
-    ],
-    "license": [],
-    "dependencies": {
-        "angular": "~1.5.8",
-        "angular-cookies": "~1.5.8",
-        "angular-resource": "~1.5.8",
-        "angular-route": "~1.5.8",
-        "bootstrap": "~3.3.7"
-    }
+  "name": "angular1",
+  "version": "0.0.1",
+  "homepage": "https://github.com/murilojatoba/angular1",
+  "authors": [
+    "murilojatoba <murilojatoba@gmail.com>"
+  ],
+  "description": "Primeiro projeto em AngularJS",
+  "main": "index.html",
+  "keywords": [
+    "AngularJS"
+  ],
+  "license": [],
+  "dependencies": {
+    "angular": "~1.5.8",
+    "angular-cookies": "~1.5.8",
+    "angular-resource": "~1.5.8",
+    "angular-route": "~1.5.8",
+    "MDBootstrap": "4.2.0"
+  }
 }
